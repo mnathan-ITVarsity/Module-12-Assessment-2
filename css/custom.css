@@ -1,0 +1,71 @@
+html, body {
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    color: black;
+    font-family: cursive;
+}
+
+
+#bottomButtons{
+    color: white;
+    background-color: lightseagreen;
+    width: 100%;
+    padding: 30px;
+    font-size: larger;
+    bottom   : 0;
+    z-index: 500;
+}
+
+#bottomButtons a{
+    width: 33%;
+}
+
+#content{
+    text-align: center;
+    padding: 0;
+}
+
+#homeButton{
+    color: white;
+    background-color: lightseagreen;
+    width: 100%;
+    padding: 30px;
+    font-size: larger;
+    bottom   : 0;
+    z-index: 500;
+}
+
+#indexTable{
+    margin-top: 20px;
+}
+
+#indexBottomButtons{
+    color: white;
+    background-color: lightseagreen;
+    width: 100%;
+    padding: 30px;
+    font-size: larger;
+    bottom   : 0;
+    z-index: 500;
+    height: 40px;
+}
+
+#indexBottomButtons a{
+     width : 50%;
+     display: block;
+     float : left;
+     text-align: center;
+     margin-top: -15px;
+}
+
+#icon{
+    text-align: center;
+    background-color: lightseagreen;
+    width: 100%;
+    padding: 15px; 
+}
+
+
